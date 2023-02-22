@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+    "mongodb+srv://Archana:Archana@cluster0.d5wvbdh.mongodb.net/Curriculum_DB?retryWrites=true&w=majority"
+}
